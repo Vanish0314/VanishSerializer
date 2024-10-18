@@ -3,10 +3,10 @@
 A single-file header-only library for serializing and deserializing data.
 
 ## Features
--[x] Supports basic data types (int, float, double, bool, string, vector, etc.)
--[x] Supports custom data types by implementing the ISerializable interface
--[x] Supports little-endian and big-endian byte order
--[] Supports binary and text serialization formats
+- [x] Supports basic data types (int, float, double, bool, string, vector, etc.)
+- [x] Supports custom data types by implementing the ISerializable interface
+- [x] Supports little-endian and big-endian byte order
+- [ ] Supports binary and text serialization formats
 
 ## Usage
 
